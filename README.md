@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sidd Shenoy
 
-<!--
-**shenoysidd/shenoysidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior cloud security and IAM leader. 25 years at Microsoft and Oracle Cloud Infrastructure.
+Currently building at the frontier of AI agent identity.
 
-Here are some ideas to get you started:
+### Background
+Built operator access governance at OCI from zero to 70+ engineers, 200+ regions,
+2M+ requests per second. Shipped Azure's first cloud-scale identity service at Microsoft.
+FedRAMP High, DoD IL5/IL6, PCI compliance experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Active projects
+- **agent-identity-broker**: OAuth tokens issued to AI agents, scoped by task context
+- **pam-copilot** — Natural language privileged access requests to JIT recommendations
+- **security-policy-analyzer** — IAM policy gap analysis against FedRAMP and NIST 800-53
+
+### Currently learning
+Agentic patterns, MCP, SPIFFE/SPIRE, OWASP Top 10 for Agentic Applications.
